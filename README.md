@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 📍 From Chernivtsi, Ukraine <br>
 
 ## 💬 Connect with me:
-### Socials:
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/T_Kazymir)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taras-kazymir-636734263)
 [![Gmail](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kazemir.t23.23@gmail.com)
